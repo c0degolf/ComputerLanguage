@@ -1,1 +1,7 @@
 *.exe
+*.pdf
+*.png
+*.zip
+
+.vscode
+Midterm
